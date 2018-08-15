@@ -1,6 +1,5 @@
 //******************************************************************************
-//Name: Kyle Tanghe
-//Date: March-1-2017
+//Author: Kyle Tanghe
 //Purpose: This program is a simple text editor
 //******************************************************************************
 import javax.swing.*;
